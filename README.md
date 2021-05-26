@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Just starting out here.
+Should be fun!
